@@ -1,11 +1,7 @@
 # DSCaptoneShinyApp
 2015 NLP DataScience Capstone
 ---
-title: "Data Science Capstone Project - Milestone Report"
-author: "brigasnuncamais Sunday, July 26th, 2015"
-geometry: margin=2cm
-output: html_document
-fontsize: 10pt
+# Data Science Capstone Project - Milestone Report
 ---
 ### Executive Summary  
 This Capstone Project is run in collaboration with Swiftkey, a successful British company building smartphone ergonomic virtual keyboard softwares. As with these apps, our focus is here to predict the next word to be typed in an input field to increase user's productivity. On smartphones, resources are limited. So we have to solve a trade-off between prediction model size and its efficiency.  
