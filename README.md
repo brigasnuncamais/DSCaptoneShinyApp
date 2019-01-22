@@ -6,7 +6,7 @@
 
 <div>
 <a href="http://brigasnuncamais.shinyapps.io/DSCapstoneShinyApp/" target="_blank">
-<img src="assets/img/Slide2.PNG" alt="0. Click here to load the application in your browser"  title="0. Click here to load the application in your browser"></a>
+<img src="assets/img/Slide2.PNG" alt="0. Click here to load the application in your browser"  title="Click here to load the application in your browser"></a>
 </div>
 
 ### Executive Summary  
